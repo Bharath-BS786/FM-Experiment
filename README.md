@@ -88,6 +88,8 @@ subplot(3,1,3);
 plot(T, efm);
 xtitle("FM Signal");
 xgrid();
+
+
 Output Waveform
 
 <img width="1883" height="1060" alt="image" src="https://github.com/user-attachments/assets/ea2eed93-53b9-4dfa-a9c2-892177dbd12f" />
