@@ -90,7 +90,8 @@ xtitle("FM Signal");
 xgrid();
 Output Waveform
 
-![Uploading image.png…]()
+<img width="1883" height="1060" alt="image" src="https://github.com/user-attachments/assets/ea2eed93-53b9-4dfa-a9c2-892177dbd12f" />
+
 
 
 
